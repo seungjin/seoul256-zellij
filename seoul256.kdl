@@ -1,0 +1,29 @@
+themes {
+    seoul256-dark {
+        fg "#d0d0d0"
+        bg "#4e4e4e"
+        black "#3a3a3a"
+        red "#d75f87"
+        green "#87af87"
+        yellow "#dfaf87"
+        blue "#87afd7"
+        magenta "#af87af"
+        cyan "#87afaf"
+        white "#e4e4e4"
+        orange "#df875f"
+    }
+    seoul256-light {
+        fg "#4e4e4e"
+        bg "#dadada"
+        black "#3a3a3a"
+        red "#af5fdf"
+        green "#5f875f"
+        yellow "#af875f"
+        blue "#5f87af"
+        magenta "#af5f87"
+        cyan "#5f8787"
+        white "#e4e4e4"
+        orange "#d7875f"
+    }
+}
+
