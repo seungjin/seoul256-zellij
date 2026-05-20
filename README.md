@@ -2,6 +2,9 @@
 
 Low-contrast [Seoul256](https://github.com/junegunn/seoul256.vim) theme for [Zellij](https://zellij.dev/).
 
+![seoul256-zellij with helix](screenshot.png)
+*Screenshot shows Zellij and Helix both using the seoul256 theme.*
+
 This theme is based on the original **Seoul256** color scheme for Vim, created by [Junegunn Choi](https://github.com/junegunn).
 
 ## Variants
